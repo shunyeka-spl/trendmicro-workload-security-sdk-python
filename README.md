@@ -1,4 +1,4 @@
-# trendmicro-workload-seurity-sdk-python
+# trendmicro-workload-security-sdk-python
 
 # Local Setup
 
